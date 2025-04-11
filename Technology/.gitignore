@@ -1,0 +1,58 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.ide
+*.sln.docstates
+*.sln
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+!**/packages/build/*.targets
+
+# Roslyn
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# Rider caches
+.idea/
+.idea/*.iml
+
+# Others
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pdb
+*.vssscc
+*.vspscc
+
+# JetBrains
+*.sln.DotSettings
+.idea/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
